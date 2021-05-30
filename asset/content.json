@@ -1,0 +1,40 @@
+{	
+	resume: {url: ""},
+	milestones:[
+		{name: "", value: ""},
+		{name: "", value: ""},
+		{name: "", value: ""},
+		{name: "", value: ""},
+	],
+	skills:[
+		{name: "", level: "", info: "", showProgressBar: true},
+		{name: "", level: "", info: "", showProgressBar: true},
+		{name: "", level: "", info: "", showProgressBar: true},
+		{name: "", level: "", info: "", showProgressBar: true},
+		{name: "", level: "", info: "", showProgressBar: true},
+		{name: "", level: "", info: "", showProgressBar: true},
+		{name: "", level: "", info: "", showProgressBar: true}
+	],
+	experience:[
+		{company: "", location: "", url:"", start: "", end:"", roles:""},
+		{company: "", location: "", url:"", start: "", end:"", roles:""},
+		{company: "", location: "", url:"", start: "", end:"", roles:""}
+	],
+	recommendations:[
+		{testimonial: "", name: "", designation: ""},
+		{testimonial: "", name: "", designation: ""},
+		{testimonial: "", name: "", designation: ""}
+	],
+	contact:[
+		{name:"email", desc: ""},
+		{name:"phone", desc: ""},
+		{name:"address", desc: ""}
+	],
+	social:[
+		{name:"Linkedin", url: ""},
+		{name:"Google+", url: ""},
+		{name:"Skype", url: ""},
+		{name:"Instagram", url: ""},
+		{name:"Imdb", url: ""}
+	]
+}
