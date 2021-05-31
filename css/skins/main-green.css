@@ -168,6 +168,7 @@ label, b, strong {
     margin-bottom: 20px;
     padding-bottom: 15px;
     margin-top: 0;
+    letter-spacing:3px;
 }
 
     .content .content-title:after {
@@ -176,6 +177,19 @@ label, b, strong {
         position: absolute;
         width: 40px;
         background: #242a30;
+        height: 2px;
+        bottom: 0;
+        left: 50%;
+        margin-left: -20px;
+    }
+
+    .content .content-title:before {
+        content: '';
+        display: block;
+        position: absolute;
+        width: 10px;
+        height:10px;
+        background: #00ACAC;
         height: 2px;
         bottom: 0;
         left: 50%;
@@ -624,10 +638,11 @@ ul.hobbies {
 
     ul.hobbies li {
         display: inline-block;
-        margin: 0 10px;
+        margin: 0px 10px 10px 0;
         font-size: 1.3em;
-        border: solid 1px #FFE082;
-        padding: 11px;
+        /*border: solid 1px #FFE082;*/
+        background: rgb(0 172 172 / 7.5%);
+        padding: 12px;
         height: 50px;
         width: 50px;
         text-align: center;
