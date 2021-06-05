@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\css",
+    "\\css\\skins",
+    "\\fonts",
+    "\\fonts\\font-awesome",
+    "\\fonts\\font-awesome\\css",
+    "\\js"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\fonts\\font-awesome\\css\\font-awesome.css",
   "PreviewInSolutionExplorer": false
 }
