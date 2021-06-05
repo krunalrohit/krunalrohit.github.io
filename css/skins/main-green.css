@@ -269,8 +269,8 @@ label, b, strong {
 
         .btn.btn-theme:hover,
         .btn.btn-theme:focus {
-            background: #008a8a;
-            border-color: #008a8a;
+            background: rgb(0 0 0 / 20%);
+            border-color: rgb(0 0 0 / 0%);
         }
 
 
