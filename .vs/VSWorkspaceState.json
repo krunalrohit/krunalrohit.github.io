@@ -2,12 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\css",
-    "\\css\\skins",
-    "\\fonts",
-    "\\fonts\\font-awesome",
-    "\\fonts\\font-awesome\\css",
-    "\\js"
+    "\\css\\skins"
   ],
-  "SelectedNode": "\\fonts\\font-awesome\\css\\font-awesome.css",
+  "SelectedNode": "\\css\\skins\\main-red.css",
   "PreviewInSolutionExplorer": false
 }
